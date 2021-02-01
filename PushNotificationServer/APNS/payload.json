@@ -1,0 +1,9 @@
+{
+  "aps": {
+    "alert": {
+      "title": "School Dismissal Manager"
+    },
+    "category": "GAME_INVITATION"
+  },
+  "gameID": "12345678"
+}
